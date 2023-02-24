@@ -1,1 +1,0 @@
-# gethub-stanley-coursera
